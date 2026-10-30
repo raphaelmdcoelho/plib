@@ -1,3 +1,7 @@
+@import '@grass-ds/tokens/tokens.css';
+@import '@grass-ds/css/fonts.css';
+@import '@grass-ds/css/grass.css';
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
